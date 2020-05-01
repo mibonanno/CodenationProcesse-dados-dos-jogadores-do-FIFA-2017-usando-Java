@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="challenge.SubmitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-04-15T03:37:47" hostname="DESKTOP-5JN7DMG" time="83.554">
+  <properties/>
+  <testcase name="q1" classname="challenge.SubmitTest" time="2.764"/>
+  <testcase name="q2" classname="challenge.SubmitTest" time="1.469"/>
+  <testcase name="q3" classname="challenge.SubmitTest" time="1.78"/>
+  <testcase name="q4" classname="challenge.SubmitTest" time="1.458"/>
+  <testcase name="q5" classname="challenge.SubmitTest" time="2.173"/>
+  <testcase name="q6" classname="challenge.SubmitTest" time="73.907"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
